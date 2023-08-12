@@ -22,7 +22,7 @@ Welcome to the Modern Calendar with Interactive Features repository! This projec
 
 ## Preview
 
-![Calendar Preview](/assets/calendar-preview.png)
+![Calendar Preview](/assets/img/calendar-preview.png)
 <!-- Add a screenshot of your calendar application in action -->
 
 ## Getting Started
