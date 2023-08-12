@@ -29,7 +29,7 @@ Welcome to the Modern Calendar with Interactive Features repository! This projec
 
 To get started with this project, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/modern-calendar.git`
+1. Clone this repository: `git clone https://github.com/meyashjoshi/modern-calendar.git`
 2. Navigate to the project directory: `cd modern-calendar`
 3. Open the `index.html` file in your web browser to view the calendar.
 
